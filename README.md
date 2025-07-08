@@ -9,7 +9,7 @@ This repo contains a growing collection of scripts, hacks, workarounds, and auto
 - make bulk changes easier,
 - or just stop yelling at the screen during routine tasks.
 
-If you've ever found yourself thinking “why isn’t this a built-in feature?”—you’re in the right place.
+If you've ever found yourself thinking “why isn’t this a built-in feature?”, buddy you’re in the right place.
 
 ---
 
